@@ -3,7 +3,6 @@
 Maharshii Patel
 251353283
 mpate588
-November 7, 2023,
 The function of this file is mainly just to call upon the functions within sentiment_analysis to analyze the different
 files given and write their report. It also makes sure that the files are given in the correct formats otherwise it
 raises an exception.
